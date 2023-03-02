@@ -3,3 +3,7 @@ Wolf
 Bear
 
 Fox
+
+elephant
+
+giraffe
